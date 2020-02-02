@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644518932653",
+    "firebase_url": "https://ai-message-fc001.firebaseio.com",
+    "project_id": "ai-message-fc001",
+    "storage_bucket": "ai-message-fc001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644518932653:android:bfbd6988e3708230021624",
+        "android_client_info": {
+          "package_name": "com.example.aimessage_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644518932653-svbrt0e40081hvift8f57qoid03iktrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEy9zgC_azyWiZJp82RaFZtNPIRYIRyGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644518932653-svbrt0e40081hvift8f57qoid03iktrp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644518932653-57n8ld78gufu5bc64getq3bpsmc4l6ga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aimessageMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

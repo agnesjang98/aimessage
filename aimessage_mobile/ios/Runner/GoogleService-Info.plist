@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>644518932653-57n8ld78gufu5bc64getq3bpsmc4l6ga.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.644518932653-57n8ld78gufu5bc64getq3bpsmc4l6ga</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCC0CJ1NN5kJtPRxej17zG3s4gIf8y9Fgo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>644518932653</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aimessageMobile</string>
+	<key>PROJECT_ID</key>
+	<string>ai-message-fc001</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ai-message-fc001.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:644518932653:ios:b0e258c7089057eb021624</string>
+	<key>DATABASE_URL</key>
+	<string>https://ai-message-fc001.firebaseio.com</string>
+</dict>
+</plist>
